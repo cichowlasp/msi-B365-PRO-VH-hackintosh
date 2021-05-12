@@ -1150,7 +1150,7 @@
 			<key>MLB</key>
 			<string>C02723501QXJG36JC</string>
 			<key>ProcessorType</key>
-			<integer>3841</integer>
+			<integer>0</integer>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
