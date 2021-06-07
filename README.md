@@ -13,3 +13,6 @@ Everything. Computer acts like a normal Intel based Mac!
 ## OpenCore - files
 If you want to use it please generate new smbios and delete microsoft folder from efi!
 I'm using this repo as a backup.
+
+## Screenshots:
+![Hackintosh Desktop](/screenshots/1.png?raw=true "Hackintosh Desktop")
