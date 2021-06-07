@@ -1,4 +1,4 @@
-# msi B365 PRO-VH hackintosh
+# msi B365 PRO-VH Hackintosh (MacOs Big Sur 11.4)
 ## My spec:
 - MSI B365M PRO-VH Micro ATX - logic borad
 - INTEL CORE I3-9100F @3.60 GHZ - processor
