@@ -1,8 +1,8 @@
 # msi B365 PRO-VH Hackintosh (MacOs Big Sur 11.6)
 ## My spec:
 - MSI B365M PRO-VH Micro ATX - __logic borad__
-- INTEL CORE I3-9100F @3.60 GHZ - __processor__
-- SAMSUNG 8GB DDR4 2400 MHz - __ram__
+- INTEL CORE I3-9600K @3.70 GHZ - __processor__
+- SAMSUNG 2x8GB DDR4 2666 MHz - __ram__
 - ASUS Radeon RX 570 STRIX - __graphic card__
 - Fenvi T919 - __wifi and bluetooth PCI__
 - SS Crucial P2 500GB m2 - __system disk__
